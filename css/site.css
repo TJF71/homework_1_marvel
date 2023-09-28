@@ -1,0 +1,79 @@
+/* h1 {
+    color: red;
+}
+
+p {
+    background-color: cornflowerblue;
+    color: lightgoldenrodyellow;
+    font-size: larger;
+    text-align: center;
+} */
+
+
+.bold-text {
+    font-weight: bolder;
+    color: black;
+}
+
+#marvel-logo {
+    max-width: 300px;
+}
+
+#marvel-logo {
+    max-width: 400px;
+}
+.hero-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    text-transform: uppercase;
+    color: rgb(255, 0, 0);
+    text-shadow: 2px 1px #292929;
+    -webkit-text-stroke-color: yellow;
+    -webkit-text-stroke-width: 1px;
+}
+
+.hulk-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    text-transform: uppercase;
+    color: green;
+    text-shadow: 2px 1px #292929;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 3px;
+}
+
+.hulk-small-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: red;
+    text-shadow: 1px 1px #292929;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+/* p {
+    margin-bottom:  25px;
+} */
+
+.hero-image {
+    max-width: 150px;
+}
+
+
+.hulk-image {
+    max-width: 400px;
+}
+
+/* .center-img {        
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  } */
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
